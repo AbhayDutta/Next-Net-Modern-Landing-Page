@@ -15,7 +15,7 @@ This project is fully responsive and can be used as a base for portfolios, start
 
 Here’s how it looks:
 
-![Landing Page Screenshot](https://raw.githubusercontent.com/AbhayDutta/Next-Net-Modern-Landing-Page/main/wp-content/uploads/2025/Screenshot.png)
+wp-content/Screenshot.png
 
 ---
 
