@@ -15,7 +15,7 @@ This project is fully responsive and can be used as a base for portfolios, start
 
 Here’s how it looks:
 
-wp-content/Screenshot.png
+![Landing Page Screenshot](https://raw.githubusercontent.com/AbhayDutta/Next-Net-Modern-Landing-Page/main/wp-content/Screenshot.png)
 
 ---
 
@@ -33,4 +33,3 @@ wp-content/Screenshot.png
 1. Clone the repo:
    ```bash
    git clone https://github.com/AbhayDutta/Next-Net-Modern-Landing-Page.git
-
