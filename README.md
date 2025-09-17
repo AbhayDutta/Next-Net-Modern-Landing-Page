@@ -35,8 +35,4 @@ It combines a responsive design with a clean aesthetic, offering a simple yet pr
 
 ---
 
-## 🚀 Live Demo  
 
-👉 [View it live here](https://abhaydutta.github.io/Next-Net-Modern-Landing-Page/)  
-
----
